@@ -82,7 +82,7 @@ function hideLoading(){
     loadingTitle.style.display = 'none'
   }
 
-setTimeout(hideLoading, 1000);
+setTimeout(hideLoading, 1500);
 
 fetchPokemons();
 
