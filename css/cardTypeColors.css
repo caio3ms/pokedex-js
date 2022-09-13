@@ -1,0 +1,72 @@
+.pokemon-card.normal{
+    color:#A8A77A;
+    background-color:#A8A77A;
+}
+.pokemon-card.fire{
+    color:#EE8130;
+    background-color:#EE8130;
+}
+.pokemon-card.water{
+    color:#6390F0;
+    background-color:#6390F0;
+}
+.pokemon-card.electric{
+    color:#F7D02C;
+    background-color:#F7D02C;
+}
+.pokemon-card.grass{
+    color:#7AC74C;
+    background-color:#7AC74C;
+}
+.pokemon-card.ice{
+    color:#96D9D6;
+    background-color:#96D9D6;
+}
+.pokemon-card.fighting{
+    color:#C22E28;
+    background-color:#C22E28;
+}
+.pokemon-card.poison{
+    color:#A33EA1;
+    background-color:#A33EA1;
+}
+.pokemon-card.ground{
+    color:#E2BF65;
+    background-color:#E2BF65;
+}
+.pokemon-card.flying{
+    color:#A98FF3;
+    background-color:#A98FF3;
+}
+.pokemon-card.psychic{
+    color:#F95587;
+    background-color:#F95587;
+}
+.pokemon-card.bug{
+    color:#A6B91A;
+    background-color:#A6B91A;
+}
+.pokemon-card.rock{
+    color:#B6A136;
+    background-color:#B6A136;
+}
+.pokemon-card.ghost{
+    color:#735797;
+    background-color:#735797;
+}
+.pokemon-card.dragon{
+    color:#6F35FC;
+    background-color:#6F35FC;
+}
+.pokemon-card.dark{
+    color:#705746;
+    background-color:#705746;
+}
+.pokemon-card.steel{
+    color:#B7B7CE;
+    background-color:#B7B7CE;
+}
+.pokemon-card.fairy{
+    color:#D685AD;
+    background-color:#D685AD;
+}
